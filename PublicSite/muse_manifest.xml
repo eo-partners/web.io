@@ -1,0 +1,45 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="eo-partners.com.au" resolutions="1x" timestamp="1486012113547">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_main.css" crc="462775646" ref="services:contact-us:index"/>
+    <file name="master_subpage.css" crc="434239911" ref="education-and-training:independent-capital-project-financial-analysis:integrated-business-planning-services-and-verification:integration-of-plant-and-plc-data-with-business-systems:data-analysis-and-enterprize-optimization"/>
+    <file name="education-and-training.css" crc="4076931243" ref="education-and-training"/>
+    <file name="independent-capital-project-financial-analysis.css" crc="4076931243" ref="independent-capital-project-financial-analysis"/>
+    <file name="services.css" crc="4142987413" ref="services"/>
+    <file name="contact-us.css" crc="39882956" ref="contact-us"/>
+    <file name="integrated-business-planning-services-and-verification.css" crc="4076931243" ref="integrated-business-planning-services-and-verification"/>
+    <file name="integration-of-plant-and-plc-data-with-business-systems.css" crc="4076931243" ref="integration-of-plant-and-plc-data-with-business-systems"/>
+    <file name="data-analysis-and-enterprize-optimization.css" crc="4076931243" ref="data-analysis-and-enterprize-optimization"/>
+    <file name="index.css" crc="114073306" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:data-analysis-and-enterprize-optimization:independent-capital-project-financial-analysis:integrated-business-planning-services-and-verification:integration-of-plant-and-plc-data-with-business-systems:education-and-training:services:contact-us"/>
+    <file name="museutils.js" crc="4148063285" ref="index:data-analysis-and-enterprize-optimization:independent-capital-project-financial-analysis:integrated-business-planning-services-and-verification:integration-of-plant-and-plc-data-with-business-systems:education-and-training:services:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:data-analysis-and-enterprize-optimization:independent-capital-project-financial-analysis:integrated-business-planning-services-and-verification:integration-of-plant-and-plc-data-with-business-systems:education-and-training:services:contact-us"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:data-analysis-and-enterprize-optimization:independent-capital-project-financial-analysis:integrated-business-planning-services-and-verification:integration-of-plant-and-plc-data-with-business-systems:education-and-training:services:contact-us"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:services:contact-us"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:data-analysis-and-enterprize-optimization:independent-capital-project-financial-analysis:integrated-business-planning-services-and-verification:integration-of-plant-and-plc-data-with-business-systems:education-and-training:services:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:data-analysis-and-enterprize-optimization:independent-capital-project-financial-analysis:integrated-business-planning-services-and-verification:integration-of-plant-and-plc-data-with-business-systems:education-and-training:services:contact-us"/>
+    <file name="require.js" crc="4159430777" ref="index:data-analysis-and-enterprize-optimization:independent-capital-project-financial-analysis:integrated-business-planning-services-and-verification:integration-of-plant-and-plc-data-with-business-systems:education-and-training:services:contact-us"/>
+    <file name="webpro.js" crc="3986320349" ref="contact-us"/>
+    <file name="form_check.php" crc="303648844" ref="contact-us"/>
+    <file name="form_throttle.php" crc="236764551" ref="contact-us"/>
+    <file name="form_process.php" crc="4272079531" ref="contact-us"/>
+    <file name="form-u1609.php" crc="3982190271" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="arrowmenudown.png" crc="262559161" ref="index"/>
+    <file name="new logo.png" crc="4259416839" seo="true" ref="index:services:contact-us"/>
+    <file name="green logs.jpg" crc="224135783" ref="index"/>
+    <file name="green boards.jpg" crc="529324875" ref="index"/>
+    <file name="cyan logs.jpg" crc="3974476589" ref="index"/>
+  </folder>
+  <file name="index.html" crc="378324307" seo="true" mt="1480820236452" redirect="true"/>
+  <file name="data-analysis-and-enterprize-optimization.html" crc="299893673" seo="true" mt="1480499272243" redirect="true"/>
+  <file name="independent-capital-project-financial-analysis.html" crc="443558399" seo="true" mt="1480499272243" redirect="true"/>
+  <file name="integrated-business-planning-services-and-verification.html" crc="3899078029" seo="true" mt="1480499272243" redirect="true"/>
+  <file name="integration-of-plant-and-plc-data-with-business-systems.html" crc="130962265" seo="true" mt="1480499272243" redirect="true"/>
+  <file name="education-and-training.html" crc="3884523222" seo="true" mt="1480499272243" redirect="true"/>
+  <file name="services.html" crc="4149566888" seo="true" mt="1480819609025" redirect="true"/>
+  <file name="contact-us.html" crc="394315399" seo="true" mt="1480819609025" redirect="true"/>
+</manifest>
